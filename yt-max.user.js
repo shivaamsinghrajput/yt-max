@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         YT Max
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/shivaamsinghrajput/yt-max
 // @version      5.5.0
 // @description  Hash Routing, Instant Dashboard, Editable Notes, Seekbar Hover Tooltips
 // @match        https://www.youtube.com/*
